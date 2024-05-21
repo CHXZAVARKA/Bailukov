@@ -1,3 +1,4 @@
+#Задача 7_1
 month = 15
 spring_months = [3, 4, 5]
 summer_months = [6, 7, 8]
@@ -31,3 +32,5 @@ is_first_order = False
 
 if is_first_order or total_purchase >= min_purchase_for_discoint:
     print("Вы получаете скидку!")
+
+
