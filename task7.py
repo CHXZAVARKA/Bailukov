@@ -33,4 +33,12 @@ is_first_order = False
 if is_first_order or total_purchase >= min_purchase_for_discoint:
     print("Вы получаете скидку!")
 
-
+#Задача 7_3
+check = [7, 13, 21]
+number = int(input('Введите число -> '))
+if number in check:
+    print('Счастливое число!')
+elif number > 0 and number <= 100:
+    print('Число в диапазоне')
+else:
+    print('Не повезло(((((')
