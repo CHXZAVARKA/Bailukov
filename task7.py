@@ -1,4 +1,3 @@
-#Задача 7_1
 month = 15
 spring_months = [3, 4, 5]
 summer_months = [6, 7, 8]
